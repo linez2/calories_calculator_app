@@ -40,7 +40,6 @@ Open the live prototype and use the “Design System” link on the page.
 
 ## Video Presentation
 
-Video presentation:
 Part 1
 https://www.loom.com/share/50aa6deada99454e8f8e2d2024eec205
 
