@@ -29,25 +29,18 @@ The visual direction is based on a balanced, friendly, and non-restrictive appro
 
 The goal of the branding is to make calorie tracking feel simple, calm, and supportive instead of strict or stressful.
 
-Link to stylescapes:
+Link to stylescape: 
+https://www.figma.com/design/qc2FqQAFuBG9D3xQzRJU6C/Jito?node-id=0-1&t=tNzdd3qsKenHGYs8-1
 
 
 ### 2. Design System
 
-The design system includes the main visual foundations and reusable UI elements:
+The design system is included inside the live prototype.
 
-* colors;
-* typography;
-* buttons;
-* navigation elements;
-* input elements;
-* mobile UI components.
-
-Link to design system:
-https://calories-calculator-app-tau.vercel.app/design-system
+Open the live prototype and use the “Design System” link on the page.
 
 ## Video Presentation
 
-Video presentation in English:
+Video presentation:
 [Add Loom / Google Drive link here]
 
