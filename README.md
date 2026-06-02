@@ -14,7 +14,6 @@ The app helps users:
 
 * calculate the amount of calories in a dish or a specific product;
 * find recipes that match their needs;
-* move through a simple connected flow from onboarding to scanning, results, and recipe details.
 
 ## Main User Stories
 
@@ -42,5 +41,8 @@ Open the live prototype and use the “Design System” link on the page.
 ## Video Presentation
 
 Video presentation:
-[Add Loom / Google Drive link here]
+Part 1
+https://www.loom.com/share/50aa6deada99454e8f8e2d2024eec205
 
+Part 2
+https://www.loom.com/share/7396d8cc31db482ea8182e0c2743e9b8
